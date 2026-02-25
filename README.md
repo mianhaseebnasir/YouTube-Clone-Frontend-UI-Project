@@ -1,4 +1,4 @@
-<h1>🎬 YouTube Clone – Frontend UI Project<?h1>
+<h1>🎬 YouTube Clone – Frontend UI Project</h1>
   <hr>
 
 📌 Project Overview
@@ -35,17 +35,17 @@ The purpose of this project is to practice modern frontend layout structuring, f
 • Google Material Icons
 
 • Font Awesome
-
+<hr>
 📂 Project Structure
 
 YouTube-Clone/
-│
-├── index.html
-│
-├── style.css
-│
-└── Images/
 
+├── index.html
+
+├── style.css
+
+└── Images/
+<hr>
 🎯 Learning Objectives
 
 • Understanding layout design using Flexbox
@@ -57,7 +57,7 @@ YouTube-Clone/
 • Structuring clean HTML markup
 
 • Building pixel-inspired UI replicas
-
+<hr>
 🔮 Future Improvements
 
 • Make fully responsive for mobile devices
@@ -67,7 +67,7 @@ YouTube-Clone/
 • Dynamic video rendering using API
 
 • Dark/Light mode toggle
-
+<hr>
 👨‍💻 Author
 
 Mian Haseeb Nasir
